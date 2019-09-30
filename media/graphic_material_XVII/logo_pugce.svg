@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300mm"
+   height="200mm"
+   viewBox="0 0 300 200"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo_pugce.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11301"
+       id="linearGradient11307"
+       x1="89.136749"
+       y1="111.92053"
+       x2="147.77737"
+       y2="168.1012"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.96262924,0,0,-0.96262924,208.43631,340.77241)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient11301">
+      <stop
+         style="stop-color:#ffe052;stop-opacity:1"
+         offset="0"
+         id="stop11303-3" />
+      <stop
+         style="stop-color:#ffc331;stop-opacity:1"
+         offset="1"
+         id="stop11305-6" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9515"
+       id="linearGradient9521"
+       x1="55.549179"
+       y1="77.070274"
+       x2="110.14919"
+       y2="131.85291"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9626292,0,0,0.9626292,45.872598,52.14722)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient9515">
+      <stop
+         style="stop-color:#387eb8;stop-opacity:1"
+         offset="0"
+         id="stop9517-7" />
+      <stop
+         style="stop-color:#366994;stop-opacity:1"
+         offset="1"
+         id="stop9519-5" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="251.06117"
+     inkscape:cy="445.04267"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-97)">
+    <rect
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect910"
+       width="300"
+       height="200"
+       x="0"
+       y="97" />
+    <g
+       id="g7556"
+       transform="translate(-73.56046,13.910683)">
+      <g
+         inkscape:export-ydpi="198"
+         inkscape:export-xdpi="198"
+         id="g7555">
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient11307);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.9626292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+           d="m 305.22493,170.08397 c 26.98417,0 25.2991,11.70197 25.2991,11.70197 l -0.0291,12.12308 h -25.75032 v 3.63996 h 35.97827 c 0,0 17.26714,-1.95824 17.26714,25.26901 0,27.22728 -15.07115,26.26175 -15.07115,26.26175 h -8.99457 v -12.63452 c 0,0 0.48484,-15.07116 -14.83051,-15.07116 -15.31532,0 -25.53977,0 -25.53977,0 0,0 -14.34918,0.23177 -14.34918,-13.8679 0,-14.0998 0,-23.31365 0,-23.31365 0,0 -2.17859,-14.10854 26.02108,-14.10854 z m 14.19877,8.15227 c -2.56197,0 -4.63263,2.07066 -4.63263,4.63263 0,2.56197 2.07066,4.63266 4.63263,4.63266 2.56197,0 4.63266,-2.07069 4.63266,-4.63266 0,-2.56197 -2.07069,-4.63263 -4.63266,-4.63263 z"
+           id="path8620"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8615"
+           d="m 141.89485,117.09466 c -26.98416,0 -25.2991,11.70196 -25.2991,11.70196 l 0.0302,12.12309 h 25.75033 v 3.63996 h -35.97823 c 0,0 -17.267149,-1.95827 -17.267149,25.269 0,27.22729 15.071149,26.26176 15.071149,26.26176 h 8.99457 v -12.63452 c 0,0 -0.48483,-15.07116 14.83051,-15.07116 15.31534,0 25.53975,0 25.53975,0 0,0 14.3492,0.23176 14.3492,-13.8679 0,-14.0998 0,-23.31365 0,-23.31365 0,0 2.1786,-14.10854 -26.02107,-14.10854 z m -14.19879,8.15227 c 2.56198,0 4.63266,2.07065 4.63266,4.63263 1e-5,2.56196 -2.07068,4.63266 -4.63266,4.63266 -2.56196,0 -4.63265,-2.0707 -4.63265,-4.63266 0,-2.56198 2.07069,-4.63263 4.63265,-4.63263 z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient9521);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.9626292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+           inkscape:connector-curvature="0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.65717316px;line-height:1.25;font-family:MacType;-inkscape-font-specification:'MacType, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.7914207"
+           x="122.80189"
+           y="220.76854"
+           id="text7768"
+           transform="scale(0.99039454,1.0096986)"><tspan
+             sodipodi:role="line"
+             id="tspan7766"
+             x="122.80189"
+             y="220.76854"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.65717316px;font-family:MacType;-inkscape-font-specification:'MacType, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:1.7914207">PUGC</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.06689453px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.37667668"
+           x="120.35925"
+           y="249.89622"
+           id="text7772"
+           transform="scale(1.0302634,0.97062557)"><tspan
+             sodipodi:role="line"
+             id="tspan7770"
+             x="120.35925"
+             y="249.89622"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.06689453px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.37667668">Python Users Group Ceará</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
